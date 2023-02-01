@@ -1,2 +1,2 @@
 @Library('shared-library-name') _
-mainPiplineapi{}
+test_api{}
