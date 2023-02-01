@@ -1,4 +1,4 @@
-@Library('mylibrary') _
+@Library('jenkins-shared-library') _
 
 import src.GlobalVars
 import src.SampleClass
